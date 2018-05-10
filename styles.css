@@ -2,3 +2,10 @@
   font-size: 15px;
   font-weight: bold;
 }
+
+.blue-panel {
+  color: white;
+  background-color: lightblue;
+  border-radius: 10px;
+  padding: 5px;
+}
